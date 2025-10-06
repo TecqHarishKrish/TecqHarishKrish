@@ -64,6 +64,10 @@
   <img src="CodechefBadge.png" width="180" />
   <img src="202502.gif" width="180" />
   <img src="2550.gif" width="180" />
+  <img src="1124.png" width="180" />
+  <img src="1123.png" width="180" />
+  <img src="1122.png" width="180" />
+  <img src="1121.png" width="180" />
 </p>
 
 ### 📊 Highlights
