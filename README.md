@@ -15,7 +15,7 @@
 🎓 **3rd-year CSE (AI & ML) Student** at KIT (Batch of 2027) — CGPA **8.25**  
 💡 Experienced in developing **end-to-end AI & full-stack projects**  
 🏆 Recognized at **IIT Madras – TN Hackathon 2025 (3rd Prize)** for Mental Health Analyzer  
-⚡ Strong problem-solving background with **150+ DSA problems solved** on CodeChef & LeetCode  
+⚡ Strong problem-solving background with **500+ DSA problems solved** on CodeChef & LeetCode  
 📜 Certified in **NPTEL (Python)**, **IBM ML with Python**, **Prompt Engineering (Coursera)**  
 🌍 Interested in **AI for healthcare, automation & impactful human-centric solutions**  
 
@@ -48,6 +48,35 @@
 
 📌 **Neonatal Disease Prediction**  
 🔹 Deep learning model (CNN + LSTM) for early detection of neonatal diseases, improving healthcare outcomes.  
+
+---
+
+## 🏆 Competitive Programming  
+
+<p align="center">
+  <img src="https://github.com/TecqHarishKrish/TecqHarishKrish/blob/main/assets/codechef_rating.png" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/TecqHarishKrish/TecqHarishKrish/blob/main/assets/problem_solver_badge.png" width="180" />
+  <img src="https://github.com/TecqHarishKrish/TecqHarishKrish/blob/main/assets/contest_badge.png" width="180" />
+  <img src="https://github.com/TecqHarishKrish/TecqHarishKrish/blob/main/assets/streak_badge.png" width="180" />
+</p>
+
+### 📊 Highlights
+- ⭐ **Current Rating:** 1515 (Div 3) | Highest: 1542  
+- 🌍 **Global Rank:** 25,683 | **Country Rank:** 23,250  
+- 🧩 **Problems Solved:** 500+  
+- 🏅 **Contests Participated:** 82+  
+- 🔥 **Coding Streak:** 50+ Days  
+
+<p align="center">
+  <img src="https://github.com/TecqHarishKrish/TecqHarishKrish/blob/main/assets/rating_graph.png" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/TecqHarishKrish/TecqHarishKrish/blob/main/assets/submission_heatmap.png" width="600" />
+</p>
 
 ---
 
