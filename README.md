@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Harishwar%20R&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner" />
 </p>
 
