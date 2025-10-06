@@ -59,11 +59,11 @@
 
 <p align="center">
   <img src="https://github.com/TecqHarishKrish/TecqHarishKrish/blob/main/assets/problem_solver_badge.png" width="180" />
-  <img src="C:\Users\Harishwar\Downloads\CodeChefBadge.png" width="180" />
-  <img src=""C:\Users\Harishwar\Downloads\CodeChefBadge (2).png"" width="180" />
-  <img src="C:\Users\Harishwar\Downloads\CodeChefBadge (1).png" width="180" />
-  <img src="C:\Users\Harishwar\Downloads\202502.gif" width="180" />
-  <img src="C:\Users\Harishwar\Downloads\2550.gif" width="180" />
+  <img src="CodechefBadge (1).png" width="180" />
+  <img src="CodechefBadge (2).png" width="180" />
+  <img src="CodechefBadge.png" width="180" />
+  <img src="202502.gif" width="180" />
+  <img src="2550.gif" width="180" />
 </p>
 
 ### 📊 Highlights
