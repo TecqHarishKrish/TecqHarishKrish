@@ -1,19 +1,27 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=180&section=header&text=Harishwar%20R&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Harishwar%20R&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner" />
 </p>
 
-<p align="center">
-  <strong>Computer Science & Engineering (AI & ML) | Aspiring Software Engineer | AI Innovator</strong>
-</p>
+<h3 align="center">👨‍💻 Computer Science (AI & ML) | Software Engineer in the Making | AI Innovator</h3>
 
 <p align="center">
-  Passionate about building <strong>AI-powered solutions</strong> and <strong>scalable applications</strong>.<br>
-  Focused on merging <strong>machine learning</strong>, <strong>full-stack development</strong>, and <strong>system design</strong> to solve real-world problems.
+  Passionate about designing <strong>AI-powered systems</strong>, building <strong>scalable applications</strong>, and applying <strong>machine learning</strong> to solve real-world challenges.  
 </p>
 
 ---
 
-## 💻 Technical Stack  
+## 🧑‍🎓 About Me  
+
+🎓 **3rd-year CSE (AI & ML) Student** at KIT (Batch of 2027) — CGPA **8.25**  
+💡 Experienced in developing **end-to-end AI & full-stack projects**  
+🏆 Recognized at **IIT Madras – TN Hackathon 2025 (3rd Prize)** for Mental Health Analyzer  
+⚡ Strong problem-solving background with **150+ DSA problems solved** on CodeChef & LeetCode  
+📜 Certified in **NPTEL (Python)**, **IBM ML with Python**, **Prompt Engineering (Coursera)**  
+🌍 Interested in **AI for healthcare, automation & impactful human-centric solutions**  
+
+---
+
+## 💻 Tech Stack  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -32,62 +40,54 @@
 
 ## 🚀 Featured Projects  
 
-- 🧠 **Social Media & Mental Health Analyzer**  
-  Built a full-stack platform integrating Node.js, Express.js, and React for analyzing social media engagement and mental health trends.  
+📌 **Social Media & Mental Health Analyzer**  
+🔹 Full-stack platform (React, Node.js, Express.js, MongoDB) analyzing social media engagement and mental health trends.  
 
-- 📄 **AI-powered Resume Chatbot**  
-  Developed an intelligent RAG chatbot using LangChain, Hugging Face Transformers, and FAISS to parse and query resumes with high accuracy.  
+📌 **AI-powered Resume Chatbot**  
+🔹 Built using LangChain, Hugging Face Transformers, and FAISS for intelligent resume parsing and querying.  
 
-- 👶 **Neonatal Disease Prediction**  
-  Designed a deep learning model (CNN + LSTM) for early detection of neonatal diseases using physiological and clinical data.  
-
----
-
-## 🎯 Current Focus  
-
-- Advancing expertise in **AI/ML model deployment**  
-- Exploring **cloud-native architectures & system design**  
-- Building impactful **AI-driven healthcare and automation solutions**  
+📌 **Neonatal Disease Prediction**  
+🔹 Deep learning model (CNN + LSTM) for early detection of neonatal diseases, improving healthcare outcomes.  
 
 ---
 
-## 📊 GitHub Insights  
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TecqHarishKrish&show_icons=true&theme=radical&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TecqHarishKrish&layout=compact&theme=radical&hide_border=true&title_color=0A66C2&text_color=333333" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TecqHarishKrish&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TecqHarishKrish&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TecqHarishKrish&theme=radical&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TecqHarishKrish&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
 
-## 📈 Contribution Activity  
+## 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TecqHarishKrish&theme=react-dark&color=0A66C2&line=0A66C2&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TecqHarishKrish&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 🤝 Connect With Me  
+## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/harishwar-r-681b37248" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/TecqHarishKrish" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:kit27.am23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Driven by curiosity, powered by AI — building technology that matters."</i>
+  <i>"Driven by curiosity, powered by AI — building technology that makes an impact."</i>
 </p>
