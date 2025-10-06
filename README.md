@@ -54,13 +54,16 @@
 ## 🏆 Competitive Programming  
 
 <p align="center">
-  <img src="https://github.com/TecqHarishKrish/TecqHarishKrish/blob/main/assets/codechef_rating.png" width="400" />
+  <img src="C:\Users\Harishwar\OneDrive\Pictures" width="400" />
 </p>
 
 <p align="center">
   <img src="https://github.com/TecqHarishKrish/TecqHarishKrish/blob/main/assets/problem_solver_badge.png" width="180" />
-  <img src="https://github.com/TecqHarishKrish/TecqHarishKrish/blob/main/assets/contest_badge.png" width="180" />
-  <img src="https://github.com/TecqHarishKrish/TecqHarishKrish/blob/main/assets/streak_badge.png" width="180" />
+  <img src="C:\Users\Harishwar\Downloads\CodeChefBadge.png" width="180" />
+  <img src=""C:\Users\Harishwar\Downloads\CodeChefBadge (2).png"" width="180" />
+  <img src="C:\Users\Harishwar\Downloads\CodeChefBadge (1).png" width="180" />
+  <img src="C:\Users\Harishwar\Downloads\202502.gif" width="180" />
+  <img src="C:\Users\Harishwar\Downloads\2550.gif" width="180" />
 </p>
 
 ### 📊 Highlights
