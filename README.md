@@ -1,24 +1,20 @@
-<!-- HEADER -->
+<!-- PREMIUM STATIC HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=230&section=header&text=Harishwar%20R&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Harishwar%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20|%20ML%20Specialist%20|%20Full-Stack%20Developer&descAlignY=65&descAlign=50" alt="Professional Banner"/>
 </p>
 
-<!-- ANIMATED INTRO -->
-<h2 align="center"> 👋 Hello World! I'm <span style="color:#0A66C2">Harishwar R</span> </h2>
+<!-- ANIMATED TYPING INTRO (Professional Tone) -->
+<h2 align="center"> 🚀 Welcome! I'm <span style="color:#00E6A8">Harishwar R</span> </h2>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=AI+%26+ML+Engineer;Full-Stack+Developer;Competitive+Programmer;Hackathon+Achiever;Tech+Explorer+%7C+Lifelong+Learner" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E6A8&center=true&vCenter=true&width=750&lines=AI+%26+ML+Engineer+%7C+Problem+Solver;Full-Stack+Developer+%7C+Product+Builder;Competitive+Programmer+%7C+Hackathon+Winner;Continuous+Learner+%7C+Innovation+Driven;Passionate+about+AI%2C+Tech%2C+and+Scalable+Systems" alt="Typing Intro"/>
+  </a>
 </p>
 
----
-
-## 📌 Abstract  
-
-🌟 I am a **Computer Science (AI & ML) Engineering Student** at KIT (Batch 2027) with a **CGPA of 8.25**.  
-💡 I build **AI-powered systems**, design **scalable software**, and thrive on **solving real-world problems** with technology.  
-🏆 From hackathons to competitive programming, I combine **creativity, persistence, and engineering excellence**.  
-🚀 My vision → *“To innovate at the intersection of AI, software, and society — creating tech that truly matters.”*  
-
----
+<!-- BRAND STATEMENT -->
+<p align="center">
+  <i>“Crafting intelligent solutions • Building scalable software • Always learning, always evolving.”</i>
+</p>
 
 ## 🧑‍🎓 About Me  
 
