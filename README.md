@@ -1,32 +1,46 @@
-# 👋 Hi, I'm Krish  
+# Krish  
 
-🎓 3rd-year Computer Science Engineering student (AI & ML specialization)  
-💡 Passionate about building intelligent systems, solving real-world problems, and constantly exploring new technologies.  
-🌱 Currently learning: Advanced Deep Learning, Generative AI, and Cloud Deployment  
-🚀 Goals: Contribute to impactful open-source projects, develop AI-driven applications, and collaborate with innovative minds.  
+👨‍💻 Computer Science (AI & ML) | Software Engineer in the making  
+
+I’m a 3rd-year Computer Science student specializing in **Artificial Intelligence & Machine Learning**, passionate about building scalable systems and intelligent applications. My interests span across **deep learning, distributed systems, and cloud-native applications**. I aim to design solutions that merge **theoretical rigor** with **real-world impact**.  
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** Python, Java, C++, JavaScript  
-- **AI/ML:** TensorFlow, PyTorch, Scikit-learn, OpenCV, NLP  
-- **Web Dev:** HTML, CSS, JavaScript, React, Node.js  
+## 🛠️ Technical Expertise  
+
+- **Programming Languages:** Python, Java, C++, JavaScript  
+- **Machine Learning & AI:** PyTorch, TensorFlow, Scikit-learn, OpenCV, NLP, Computer Vision  
+- **Web & Application Development:** React, Node.js, REST APIs  
 - **Databases:** MySQL, MongoDB, Firebase  
-- **Tools & Platforms:** Git/GitHub, Docker, Linux, VS Code, Jupyter  
+- **DevOps & Tools:** Git/GitHub, Docker, Linux, Jupyter, VS Code  
 
 ---
 
-## 📈 GitHub Stats  
-![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=github_dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=github_dark&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=github-dark-blue&hide_border=true" height="170" />
+</p>
 
 ---
 
-## 📬 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-- 🐦 [Twitter](https://twitter.com/your-twitter)  
+## 📈 Contribution Activity  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=github-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🌐 Connect with Me  
+
 - 📧 Email: yourname@email.com  
+- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin)  
+- 🌐 [Portfolio](https://your-portfolio.com)  
 
 ---
-
-⭐ *"Code is like humor — when you have to explain it, it’s bad."*  
