@@ -4,7 +4,7 @@ I love building intelligent systems and solving real-world problems through code
 
 ---
 
-## 🎉 Programmer   
+## 🎉 Programmer & Vibe Coder!
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
 </p>
