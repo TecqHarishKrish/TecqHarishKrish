@@ -1,10 +1,12 @@
+![Blackhole Banner](https://ishan-rest.vercel.app/svg/banner/blackhole/FutureTechLead)
+
 # 🚀 Welcome to My GitHub Profile!
 I'm Harishwar R, a passionate and innovative programmer with a deep interest in Artificial Intelligence, Machine Learning, and Data Science.  
 I love building intelligent systems and solving real-world problems through code.
 
 ---
 
-## 🎉 Programmer & Vibe Coder!
+## 🎉 Programmer | Vibe Coder | Algorithm Practitioner
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
 </p>
