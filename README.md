@@ -170,19 +170,25 @@ Interactive mobile gaming experience
 <div align="center">
 <a href="https://github.com/TecqHarishKrish"> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TecqHarishKrish&theme=dracula" width="100%" /> 
+</a>
 <br/><br/>
+<a href="https://github.com/TecqHarishKrish">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TecqHarishKrish&theme=dracula" width="31%" align="left"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TecqHarishKrish&theme=dracula" width="31%" align="right" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TecqHarishKrish&theme=dracula" width="31%" align="center" title="🦉 Productive Hours" />  
-<br/><br/>
 </a>
+<br/><br/>
 <a href="https://github.com/TecqHarishKrish"> 
 <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph" />
 </a>
 <br/><br/>
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TecqHarishKrish&theme=high-contrast&hide_border=true&area=true&bg_color=0d1117&color=bd93f9&line=ff79c6&point=50fa7b)](https://github.com/TecqHarishKrish)
+<a href="https://github.com/TecqHarishKrish">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TecqHarishKrish&theme=high-contrast&hide_border=true&area=true&bg_color=0d1117&color=bd93f9&line=ff79c6&point=50fa7b" width="100%" alt="Activity Graph"/>
+</a>
 <br/>
-[![Trophies](https://github-profile-trophy.vercel.app/?username=TecqHarishKrish&column=8&margin-w=20&margin-h=20&no-frame=true&theme=dracula&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/TecqHarishKrish)
+<a href="https://github.com/TecqHarishKrish">
+<img src="https://github-profile-trophy.vercel.app/?username=TecqHarishKrish&column=8&margin-w=20&margin-h=20&no-frame=true&theme=dracula&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues" alt="GitHub Trophies"/>
+</a>
 <br/><br/>
 </div>
 </p>
