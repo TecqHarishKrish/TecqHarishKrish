@@ -376,15 +376,59 @@ Native Android development with modern Java practices and Material Design princi
 
 ---
 
-## Certifications & Achievements
+#  Certifications & Achievements
 
-| Certification | Provider |
-|---------------|----------|
-| IIT Madras TN Hackathon X 2025 - 3rd Prize | IIT Madras-NCSRC |
-| Code Detox - 1st Place Technical Event | PPG College |
-| Joy of Computing using Python (Elite) | NPTEL |
-| Prompt Engineering | Coursera |
-| Machine Learning with Python | IBM |
+##  Competition Honors
+
+<table>
+<tr>
+<td width="50%">
+
+###  IIT Madras TN Hackathon X 2025
+**3rd Prize Winner**
+> *IIT Madras - NCSRC*
+
+Secured 3rd position among top innovators in a prestigious state-level hackathon organized by IIT Madras National Cyber Security Research Centre.
+
+</td>
+<td width="50%">
+
+###  Code Detox
+**1st Place - Technical Event**
+> *PPG College*
+
+Clinched first position in a competitive technical event, demonstrating exceptional problem-solving and coding prowess.
+
+</td>
+</tr>
+</table>
+
+---
+
+##  Professional Certifications
+
+<div align="center">
+
+|  Certification |  Issuing Organization |  Specialization |
+|:-----------------|:------------------------|:------------------|
+| **Joy of Computing using Python** | NPTEL | **Elite** Grade |
+| **Prompt Engineering** | Coursera | AI/ML Engineering |
+| **Machine Learning with Python** | IBM | Data Science & ML |
+
+</div>
+
+---
+
+<div align="center">
+
+###  *Continuously learning and pushing boundaries in technology*
+
+![Skills](https://img.shields.io/badge/Skills-Python%20%7C%20ML%20%7C%20AI%20%7C%20Problem%20Solving-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Actively%20Learning-success?style=for-the-badge)
+
+</div>
+
+
 
 ---
 
@@ -401,15 +445,6 @@ Native Android development with modern Java practices and Material Design princi
     <img alt="github-snake" src="https://raw.githubusercontent.com/TecqHarishKrish/TecqHarishKrish/output/github-snake.svg" />
   </picture>
 </div>
-
----
-
-## Let's Connect!  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
-![CodeChef](https://img.shields.io/badge/CodeChef-%2523B92B27.svg?style=for-the-badge&logo=CodeChef&logoColor=white)  
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)  
 
 ---
 
@@ -452,6 +487,15 @@ Native Android development with modern Java practices and Material Design princi
 <tr>
 <td width="50%" valign="top">
 
+---
+## Let's Connect!  
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
+![CodeChef](https://img.shields.io/badge/CodeChef-%2523B92B27.svg?style=for-the-badge&logo=CodeChef&logoColor=white)  
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)  
+
+---
 
 
 
