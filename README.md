@@ -44,34 +44,109 @@ I love building intelligent systems and solving real-world problems through code
 
 ## Tech Stack  
 
-### AI & Machine Learning
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/>
-</p>
-
-### Web Development
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-</p>
+---
 
 ### Databases & Tools
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
-<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="50" height="50"/>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50"/>
+  </a>
+  <a href="https://streamlit.io/" target="_blank">
+    <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="50" height="50"/>
+  </a>
+</p>
 
+### Frameworks & Libraries
+<p align="left">
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
+  </a>
+</p>
+
+### Cloud & DevOps
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50"/>
+  </a>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50"/>
+  </a>
+</p>
+
+### Vibe Coding Tools
+<p align="left">
+  <a href="https://cursor.sh" target="_blank">
+    <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  </a>
+  <a href="https://codeium.com/windsurf" target="_blank">
+    <img src="https://img.shields.io/badge/Windsurf-1E90FF?style=for-the-badge&logo=windy&logoColor=white" />
+  </a>
+  <a href="https://bolt.new" target="_blank">
+    <img src="https://img.shields.io/badge/Bolt.dev-FFCC00?style=for-the-badge&logo=thunderbird&logoColor=black" />
+  </a>
+  <a href="https://lovable.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge&logo=heart&logoColor=white" />
+  </a>
+  <a href="https://www.solidjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Solid-2C4F7C?style=for-the-badge&logo=solid&logoColor=white" />
+  </a>
+  <a href="https://www.hostinger.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Hostinger-8B3FFD?style=for-the-badge&logo=hostinger&logoColor=white" />
+  </a>
+  <a href="https://vercel.com/v0" target="_blank">
+    <img src="https://img.shields.io/badge/V0_by_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://base44.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Base44-FF4500?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" />
+  </a>
+</p>
+
+---
 ---
 
 <div align="center">
@@ -484,34 +559,77 @@ Clinched first position in a competitive technical event, demonstrating exceptio
 <tr>
 <td width="50%" valign="top">
 
----
-## Let's Connect!  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
-![CodeChef](https://img.shields.io/badge/CodeChef-%2523B92B27.svg?style=for-the-badge&logo=CodeChef&logoColor=white)  
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)  
-
----
-
-
-
-
-
-
-
-
-
-
-
-## 🐍 Contribution Activity
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TecqHarishKrish/TecqHarishKrish/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TecqHarishKrish/TecqHarishKrish/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/TecqHarishKrish/TecqHarishKrish/output/github-snake-dark.svg" width="100%" />
-  </picture>
+
+## 🤝 Let's Connect!
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://linkedin.com/in/harishwar-r-681b37248" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" height="60" alt="LinkedIn"/>
+      </a>
+      <br/>
+      <b>LinkedIn</b>
+      <br/>
+      <sub>Professional Network</sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/TecqHarishKrish" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="60" height="60" alt="GitHub"/>
+      </a>
+      <br/>
+      <b>GitHub</b>
+      <br/>
+      <sub>Code Repository</sub>
+    </td>
+    <td align="center" width="150">
+      <a href="mailto:kit27.am23@gmail.com">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="60" height="60" alt="Gmail"/>
+      </a>
+      <br/>
+      <b>Gmail</b>
+      <br/>
+      <sub>Direct Contact</sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://www.codechef.com/users/kit23bam023" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/11960354?s=280&v=4" width="60" height="60" alt="CodeChef"/>
+      </a>
+      <br/>
+      <b>CodeChef</b>
+      <br/>
+      <sub>Competitive Coding</sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://leetcode.com/HwWfJcqe" target="_blank">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png" width="60" height="60" alt="LeetCode"/>
+      </a>
+      <br/>
+      <b>LeetCode</b>
+      <br/>
+      <sub>Problem Solving</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+[![](https://img.shields.io/badge/💬-Open_to_Collaborations-blueviolet?style=for-the-badge)](mailto:kit27.am23@gmail.com)
+[![](https://img.shields.io/badge/🚀-Let's_Build_Together-success?style=for-the-badge)](https://linkedin.com/in/harishwar-r-681b37248)
+
 </div>
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
