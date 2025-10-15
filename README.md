@@ -20,7 +20,7 @@ With every step, I aim to explore, innovate, and contribute towards building a s
 <td width="50%" valign="top">
 
 ##  Profile
--  **3rd Year B.E. CSE (AI & ML)** student at **KIT** - Kalaignar Karunanidhi Institute of Technology
+-  **3rd Year B.E. CSE (AI & ML)** student at **KIT** - Kalaignar Karunanidhi Institute of Technology, Coimbatore, 641402.
 -  Passionate about **AI, ML, Data Science**, and **Full-Stack Development**
 -  Winner of **IIT Madras - TN Hackathon X (NCSRC) 2025**
 -  **1st Place** in "Code Detox" Technical Event at PPG College
