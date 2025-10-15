@@ -432,10 +432,7 @@ Clinched first position in a competitive technical event, demonstrating exceptio
 
 ---
 
-## GitHub Statistics  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TecqHarishKrish&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TecqHarishKrish&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=TecqHarishKrish&theme=radical)  
+
 
 ### GitHub Contribution Snake  
 <div align="center">
@@ -507,3 +504,14 @@ Clinched first position in a competitive technical event, demonstrating exceptio
 
 
 
+## 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TecqHarishKrish/TecqHarishKrish/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TecqHarishKrish/TecqHarishKrish/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/TecqHarishKrish/TecqHarishKrish/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
