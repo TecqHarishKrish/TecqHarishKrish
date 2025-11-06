@@ -38,7 +38,8 @@ With every step, I aim to explore, innovate, and contribute towards building a s
 
 ---
 <div align="center">
-### Let's build something amazing together!
+
+### Evolving through code, learning through creation. 🚀
 
 </div>
 
@@ -146,9 +147,31 @@ With every step, I aim to explore, innovate, and contribute towards building a s
   <a href="https://base44.tech" target="_blank">
     <img src="https://img.shields.io/badge/Base44-FF4500?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" />
   </a>
+  <a href="https://replit.com/@sandhiyavs" target="_blank">
+    <img src="https://img.shields.io/badge/Replit-6678FF?style=for-the-badge&logo=replit&logoColor=white" />
+  </a>
+  <a href="https://codepen.io" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
+  <a href="https://stackblitz.com" target="_blank">
+    <img src="https://img.shields.io/badge/StackBlitz-1269D3?style=for-the-badge&logo=stackblitz&logoColor=white" />
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  </a>
+  <a href="https://codesandbox.io" target="_blank">
+    <img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" />
+  </a>
+  <a href="https://notebooklm.google" target="_blank">
+    <img src="https://img.shields.io/badge/NotebookLM-34A853?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+  <a href="https://github.dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Dev-24292E?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
+
 ---
 
 <div align="center">
@@ -185,7 +208,7 @@ With every step, I aim to explore, innovate, and contribute towards building a s
 <table align="center">
   <tr>
     <td align="center" colspan="2">
-      <img src="https://img.shields.io/badge/Problems_Solved-792-4F46E5?style=for-the-badge&logo=codechef&logoColor=white" />
+      <img src="https://img.shields.io/badge/Problems_Solved-813-4F46E5?style=for-the-badge&logo=codechef&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -198,10 +221,10 @@ With every step, I aim to explore, innovate, and contribute towards building a s
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Contests-83-FF6B6B?style=for-the-badge&logo=codechef&logoColor=white" />
+      <img src="https://img.shields.io/badge/Contests-87-FF6B6B?style=for-the-badge&logo=codechef&logoColor=white" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Active_Days-200-51CF66?style=for-the-badge&logo=codechef&logoColor=white" />
+      <img src="https://img.shields.io/badge/Active_Days-200+-51CF66?style=for-the-badge&logo=codechef&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -218,9 +241,9 @@ With every step, I aim to explore, innovate, and contribute towards building a s
 <br/>
 
 **Achievements**
-- 792 Problems Solved
+- 813 Problems Solved
 - Peak Rating: 1555
-- 83 Contests Participated
+- 87 Contests Participated
 - 200+ Active Days
 
 </td>
@@ -229,7 +252,7 @@ With every step, I aim to explore, innovate, and contribute towards building a s
 
 ---
 
-<span style="font-size:16px;">Keep coding, keep growing! 💻</span>
+<span style="font-size:16px;">Dream in code, build with passion. 💻</span>
 
 </div>  
 
