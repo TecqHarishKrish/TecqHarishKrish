@@ -468,24 +468,37 @@ Native Android development with modern Java practices and Material Design princi
 
 <div align="center">
 
-###  *Driven by curiosity, powered by code*
+### *Driven by curiosity, powered by code*
 
-**[View More Projects →](#)** | **[Get In Touch →](#)**
+<a href="https://github.com/TecqHarishKrish" target="_blank" style="text-decoration:none;">
+<button style="padding:10px 18px;border-radius:6px;border:none;background:#24292e;color:#fff;cursor:pointer;">
+View More Projects →
+</button>
+</a>
 
-</div> 
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/harishwar-r-681b37248/" target="_blank" style="text-decoration:none;">
+<button style="padding:10px 18px;border-radius:6px;border:none;background:#0077b5;color:#fff;cursor:pointer;">
+Get In Touch →
+</button>
+</a>
+
+</div>
 
 ---
 
-#  Certifications & Achievements
 
-##  Competition Honors
+# Certifications & Achievements
+
+## Competition Honors
 
 <table>
 <tr>
 <td width="50%">
 
-###  IIT Madras TN Hackathon X 2025
-**3rd Prize Winner**
+### IIT Madras TN Hackathon X 2025  
+**3rd Prize Winner**  
 > *IIT Madras - NCSRC*
 
 Secured 3rd position among top innovators in a prestigious state-level hackathon organized by IIT Madras National Cyber Security Research Centre.
@@ -493,15 +506,29 @@ Secured 3rd position among top innovators in a prestigious state-level hackathon
 </td>
 <td width="50%">
 
-###  Code Detox
-**1st Place - Technical Event**
+### Code Detox  
+**1st Place - Technical Event**  
 > *PPG College*
 
 Clinched first position in a competitive technical event, demonstrating exceptional problem-solving and coding prowess.
 
 </td>
 </tr>
+
+<tr>
+<td colspan="2">
+
+### TANCAM 3DEXPERIENCE Hackathon  
+**2nd Place - Tamil Nadu Women's Hackathon 2025 **  
+> *TIDCO Tamil Nadu Centre of Excellence for Advanced Manufacturing – Dassault Systèmes 3DEXPERIENCE Lab*
+
+Secured 2nd place in the Tamil Nadu Women’s Hackathon 2025, powered by TIDCO and Dassault Systèmes 3DEXPERIENCE Lab.  
+A proud and empowering achievement showcasing innovation, technical excellence, and strong problem-solving capability in advanced manufacturing and AI-driven solution design.
+
+</td>
+</tr>
 </table>
+
 
 ---
 
