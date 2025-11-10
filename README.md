@@ -6,7 +6,7 @@ I believe that technology is not just about writing code, but about creating mea
 Driven by curiosity and the joy of continuous learning, I strive to transform ideas into impactful projects that bridge imagination with reality.  
 With every step, I aim to explore, innovate, and contribute towards building a smarter and more connected world for everyone.  
 
----
+----
 
 ## Programmer | Vibe Coder | Algorithm Practitioner
 <div align="center">
