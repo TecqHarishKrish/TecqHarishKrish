@@ -8,7 +8,6 @@ With every step, I aim to explore, innovate, and contribute towards building a s
 
 ----
 
-
 ## Programmer | Vibe Coder | Algorithm Practitioner
 <div align="center">
 
