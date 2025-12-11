@@ -7,7 +7,6 @@ Driven by curiosity and the joy of continuous learning, I strive to transform id
 With every step, I aim to explore, innovate, and contribute towards building a smarter and more connected world for everyone.  
 
 ----
-
 ## Programmer | Vibe Coder | Algorithm Practitioner
 <div align="center">
 
