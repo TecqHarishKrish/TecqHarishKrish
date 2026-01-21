@@ -183,11 +183,11 @@ With every step, I aim to explore, innovate, and contribute towards building a s
 
 ###  LeetCode Profile
 
-<a href="https://leetcode.com/u/HwWfJcqe/">
+<a href="https://leetcode.com/u/HarishwarR/">
   <img src="https://leetcard.jacoblin.cool/HwWfJcqe?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" width="100%" />
 </a>
 
-<a href="https://leetcode.com/u/HwWfJcqe/" target="_blank">
+<a href="https://leetcode.com/u/HarishwarR/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
 </a>
 
@@ -653,7 +653,7 @@ A proud and empowering achievement showcasing innovation, technical excellence, 
       <sub>Competitive Coding</sub>
     </td>
     <td align="center" width="150">
-      <a href="https://leetcode.com/HwWfJcqe" target="_blank">
+      <a href="https://leetcode.com/HarishwarR" target="_blank">
         <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png" width="60" height="60" alt="LeetCode"/>
       </a>
       <br/>
