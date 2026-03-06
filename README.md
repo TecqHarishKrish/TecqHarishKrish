@@ -1,11 +1,23 @@
 ![Banner](./harishwar.png)
 
 # Welcome to My GitHub Profile!  
-I'm Harishwar R, a passionate and innovative programmer with a deep interest in Artificial Intelligence, Machine Learning, and Data Science.  
-I believe that technology is not just about writing code, but about creating meaningful solutions that can inspire change and make lives better.  
-Driven by curiosity and the joy of continuous learning, I strive to transform ideas into impactful projects that bridge imagination with reality.  
-With every step, I aim to explore, innovate, and contribute towards building a smarter and more connected world for everyone.  
+I'm Harishwar R
 
+I'm a **passionate and innovative programmer** with a strong interest in **Artificial Intelligence, Machine Learning, and Data Science**.
+I believe technology is not just about writing code — it is about **building meaningful solutions that can create real-world impact and improve people's lives**.
+Driven by **curiosity, creativity, and continuous learning**, I enjoy transforming ideas into **practical and impactful projects** that bridge imagination with real-world applications.
+With every step in my journey, I strive to **explore new technologies, innovate through problem-solving, and contribute to building a smarter and more connected world**.
+###  Interests
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Problem Solving
+- Building Real-World AI Applications
+
+###  Currently Learning
+- Advanced Machine Learning
+- Agentic AI Systems
+- Scalable AI Applications
 ----
 ## Programmer | Vibe Coder | Algorithm Practitioner
 <div align="center">
