@@ -2,16 +2,16 @@ name: GitHub 3D Contribution Graph
 
 on:
 schedule:
-- cron: "0 0 * * *"   # runs every day at midnight UTC
-workflow_dispatch:      # allows manual run
+- cron: "0 0 * * *"   # Runs every day at midnight (UTC)
+workflow_dispatch:      # Allows manual trigger
 
 permissions:
 contents: write
 
 jobs:
 build:
-runs-on: ubuntu-latest
 name: Generate 3D Contribution Graph
+runs-on: ubuntu-latest
 
 ```
 steps:
@@ -33,7 +33,7 @@ steps:
     run: |
       git config user.name "github-actions"
       git config user.email "github-actions@github.com"
-      git add .
-      git commit -m "update 3d contribution graph" || echo "no changes"
+      git add profile-3d-contrib
+      git commit -m "update 3d contribution graph" || echo "No changes"
       git push
 ```
