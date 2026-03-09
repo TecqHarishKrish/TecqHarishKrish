@@ -1,39 +1,36 @@
 name: GitHub 3D Contribution Graph
 
 on:
-schedule:
-- cron: "0 0 * * *"
-workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
-contents: write
+  contents: write
 
 jobs:
-build:
-name: Generate 3D Contribution Graph
-runs-on: ubuntu-latest
+  build:
+    name: Generate 3D Contribution Graph
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-```
-steps:
-  - name: Checkout repository
-    uses: actions/checkout@v3
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: TecqHarishKrish
+          SETTINGS: >
+            {
+              "theme": "night_view",
+              "output": "./profile-3d-contrib"
+            }
 
-  - name: Generate 3D contribution graph
-    uses: yoshi389111/github-profile-3d-contrib@0.7.2
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      USERNAME: TecqHarishKrish
-      SETTINGS: >
-        {
-          "theme": "night_view",
-          "output": "./profile-3d-contrib"
-        }
-
-  - name: Commit generated files
-    run: |
-      git config user.name "github-actions"
-      git config user.email "github-actions@github.com"
-      git add profile-3d-contrib
-      git commit -m "update 3d contribution graph" || echo "No changes"
-      git push
-```
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add profile-3d-contrib
+          git commit -m "update 3d contribution graph" || echo "No changes"
+          git push
