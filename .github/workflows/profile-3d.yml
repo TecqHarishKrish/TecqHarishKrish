@@ -2,8 +2,8 @@ name: GitHub 3D Contribution Graph
 
 on:
 schedule:
-- cron: "0 0 * * *"   # Runs every day at midnight (UTC)
-workflow_dispatch:      # Allows manual trigger
+- cron: "0 0 * * *"
+workflow_dispatch:
 
 permissions:
 contents: write
@@ -29,7 +29,7 @@ steps:
           "output": "./profile-3d-contrib"
         }
 
-  - name: Commit & Push the generated SVG
+  - name: Commit generated files
     run: |
       git config user.name "github-actions"
       git config user.email "github-actions@github.com"
